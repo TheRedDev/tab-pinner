@@ -1,6 +1,6 @@
 [Visit the Extension in the Web Store](https://chrome.google.com/webstore/detail/tab-pinner-keyboard-short/mbcjcnomlakhkechnbhmfjhnnllpbmlh?utm_source=chrome-ntp-icon)
 
-Simple Chrome extension to pin tabs in Chrome from the keyboard.
+Simple Chrome extension to pin all new tabs in Chrome.
 
 Dead simple, no fluff extension.
 
