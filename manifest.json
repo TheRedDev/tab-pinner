@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Tab Pinner (All Tabs)",
   "description": "Pin all newly created tabs automatically.",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "background": {
     "persistent": false,
     "scripts": [ "tab_pinner.js" ]
@@ -12,5 +12,5 @@
     "16": "pin_16.png",
     "48": "pin_48.png"
   },
-  "permissions": [],
+  "permissions": []
 }
